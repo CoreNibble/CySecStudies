@@ -1,0 +1,11 @@
+Questions and Answers
+
+Q1: The network manager is considering adding  Wireless Access Point to the switch to allow wireless devices to connect to it. What type of wireless network would this be, and how can it be secured from unauthorised access?
+‎ 
+A1: Infrastructure Mode
+A1.2: Strong Passwords and WPA/WPA2 Encryption 
+‎ 
+Notes: 
+WPA stands for Wi-Fi Protected Access, the 2 signifies its version.
+WPA is based on AES, Advanced Encryption Standard
+WEP, Wired Equivalent Privacy, came before WPA/2, is now obsolete a due to its weak encryption algorithm

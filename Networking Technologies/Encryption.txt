@@ -1,0 +1,24 @@
+Encryption  
+
+Symmetric The use of the same key for encryption and decryption 
+In order for this to work both the sender and receiver must have the same key, downside of this is keeping it secret
+Examples of cyphers/encryption that use this method, AES, DES, 3DES
+
+Asymmetric 
+Uses a system of public and private keys, public key is shared publicly whereas the private key is stored well privately 
+Data encrypted with the public key, can only be decrypted with the private key. 
+
+Examples of cyphers/encryption that use this method, RSA, ECC
+
+Ciphers
+
+DES: Data Encryption Standard
+3DES: Triple Data Encryption Standard
+AES: Advanced Encryption Standard
+Blowfish:
+Twofish:
+
+Encryption Methods
+
+ECC: Elliptic Curve Cryptography
+RSA: Rivest-Shamir-Adleman 

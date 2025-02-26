@@ -1,0 +1,17 @@
+Three-Way Handshake
+
+SYN (Synchronize)
+During this stage, the client will send a SYN packet to the server. This is done to request the start of a connection. In this packet, there will be an initial sequence number, which is included to keep track of the data.
+
+SYN-ACK (Synchronize Acknowledge)
+During this stage, the server responds to the SYN request with a SYN-ACK. This is done to acknowledge the request to start a connection. The server also includes its own sequence number in this response.
+
+ACK (Acknowledge)
+At this stage, the client will send a final acknowledgement (ACK) packet to confirm that they have received the SYN-ACK. 
+Once this three-way handshake has been completed, the data transfer can begin.
+
+Notes:
+
+The Three-Way Handshake occurs when the TCP protocol is used.
+It occurs during the encapsulation process and thus is initiated at the Transport Layer of the OSI Model, Layer 4.
+Will not occur during the decapsulation process as the connection has already been established. 
