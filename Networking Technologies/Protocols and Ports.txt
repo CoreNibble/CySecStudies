@@ -1,0 +1,22 @@
+Protocols:
+HTTP: Hypertext Transfer Protocol
+HTTPS: Hypertext Transfer Protocol Secure
+FTP: File Transfer Protocol
+SFTP: Secure File Transfer Protocol, utilises SSH 
+SSH: Secure Shell
+SMTP: Simple Mail Transfer Protocol
+SMTPS: Simple Mail Transfer Protocol Secure
+TLS: Transport Layer Security
+SSL: Secure Socket Layer
+MAC: Media Access Control
+DNS: Domain Name System
+ARP: Address Resolution Protocol
+
+Ports
+HTTPS: 443
+TLS/SSL: 443
+HTTP: 80 
+FTP: 20/21
+SMTP: 25
+SMTPS:  465
+DNS: 53
